@@ -30,5 +30,12 @@
       <version>4.13.2</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>edu.eci.cvds.tdd</groupId>
+      <artifactId>aerodescuentos</artifactId>
+      <version>1.0.0</version>
+      <scope>system</scope>
+      <systemPath>C:/Users/user/.m2/repository/com/edu/eci/cvds/tdd/aerodescuentos/1.0.0/aerodescuentos-1.0.0.jar</systemPath>
+    </dependency>
   </dependencies>
 </project>
